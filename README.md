@@ -1,1 +1,2 @@
-# tinDog1
+# TinDog
+bootstrap
